@@ -9,7 +9,7 @@
 
 - [ADB & Fastboot](https://developer.android.com/studio/releases/platform-tools)
   
-- [Modded OFOX recovery](https://github.com/n00b69/woa-beryllium/releases/tag/Recovery)
+- [Modded OFOX recovery](https://github.com/Kumar-Jy/Windows-in-PocoF1-Without-PC/releases/tag/Moded-Ofox-Recovery)
 
 ### Notes
 > [!WARNING]  
@@ -37,7 +37,7 @@ cmd /c "for %i in (fsg,fsc,modemst1,modemst2) do (adb shell dd if=/dev/block/by-
 > 
 > If it asks you to run it once again, do so
 ```cmd
-adb shell partition $
+adb shell winpartition $
 ```
 
 #### Checking your panel type
